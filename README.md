@@ -7,10 +7,10 @@ An Android app that hides secret text inside images using steganography — buil
 ## 📱 Features
 - Encode text into images securely  
 - Decode hidden messages from encoded images  
-- Save and share encoded images (`.steg` or `.doc` formats)  
+- Save and share encoded images  
 - Simple UI with a rocket animation 🚀  
 - WhatsApp-compatible sharing  
-- Only decodes `.steg` files (prevents decoding normal images)
+  
 
 ---
 
