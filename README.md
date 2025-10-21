@@ -11,7 +11,11 @@ An Android app that hides secret text inside images using steganography — buil
 - Simple UI with a rocket animation 🚀  
 - WhatsApp-compatible sharing  
   
+---
 
+## 👥 Contributors
+- A special thanks to the following people who contributed to this project:
+- **Shruti Patil:** 
 ---
 
 ## 🧠 Tech Stack
