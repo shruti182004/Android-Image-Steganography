@@ -31,4 +31,4 @@ An Android app that hides secret text inside images using steganography — buil
 
 ---
 
-## 📂 Project Structure
+
