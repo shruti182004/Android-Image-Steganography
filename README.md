@@ -31,7 +31,7 @@ An Android app that hides secret text inside images using steganography — buil
 
 ---
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 🧩 Prerequisites
 
 Before running this project, make sure you have:
@@ -48,7 +48,7 @@ A physical or virtual Android device (emulator) running Android 8.0 (Oreo) or hi
 
 ## 1) Clone the repository
 
-'''git clone https://github.com/shruti182004/Image-Steganography-Android.git'''
+```git clone https://github.com/shruti182004/Image-Steganography-Android.git```
 
 ## 2)Open the project in Android Studio
 
@@ -86,7 +86,7 @@ The app will install and launch automatically.
 
 - Ensure local.properties file has your Android SDK path:
 
-''' sdk.dir=C:\\Users\\YourName\\AppData\\Local\\Android\\Sdk '''
+``` sdk.dir=C:\\Users\\YourName\\AppData\\Local\\Android\\Sdk ```
 
 - Use “Clean Project” and “Rebuild Project” if you face build errors.
 
