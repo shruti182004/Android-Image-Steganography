@@ -80,7 +80,7 @@ The app will install and launch automatically.
 
 - Enjoy the rocket animation 🚀 and smooth UI!
 
-🐞 Troubleshooting
+## 🐞 Troubleshooting
 
 - If Gradle fails to sync, go to File → Invalidate Caches / Restart.
 
