@@ -14,8 +14,10 @@ An Android app that hides secret text inside images using steganography — buil
 ---
 
 ## 👥 Contributors
-- A special thanks to the following people who contributed to this project:
-- **Jitin Nair** 
+ A special thanks to the following people who contributed to this project:
+
+| [**Jitin Nair**](https://github.com/Jitin10) |
+
 ---
 
 ## 🧠 Tech Stack
