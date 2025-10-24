@@ -3,6 +3,14 @@
 An Android app that hides secret text inside images using steganography — built using **Android Studio**.
 
 ---
+<img width="610" height="1311" alt="image" src="https://github.com/user-attachments/assets/5902cf87-c7a5-4564-813f-118f43fc3581" />
+<img width="299" height="651" alt="image" src="https://github.com/user-attachments/assets/11ce2c6b-a2f0-4a48-87b8-f3ba6af4d807" />
+<img width="301" height="654" alt="image" src="https://github.com/user-attachments/assets/0dce5eb1-f38d-46ae-9d88-7bcd32e857bd" />
+
+
+
+
+
 
 ## 📱 Features
 - Encode text into images securely  
